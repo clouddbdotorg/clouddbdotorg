@@ -1,4 +1,4 @@
 # CLoud DB
---------------------------
-||Cockroach DB|AWS Aurora|
---------------------------
+|Feature|Cockroach DB|AWS Aurora|
+ ------- ------------ ----------
+|       |            |          |
