@@ -1,4 +1,4 @@
-# Cloud DB
+# Cloud Databases
 
 |Feature|Cockroach DB|AWS Aurora|
 |-------|------------|----------|
