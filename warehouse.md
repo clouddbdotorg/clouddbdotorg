@@ -6,3 +6,4 @@
 | QUALIFY         |Yes      |Yes         |Yes            |Yes       |Yes   |Yes   |
 | SKYLINE         |No       | No         |No             |No        |No    |Yes   |
 |GRAPH_TABLE      |No       |No          |No             |No        |Yes   |No    |
+|MIN_BY / MAX_BY  |Yes      |No          |No             |          |No    |No    |
