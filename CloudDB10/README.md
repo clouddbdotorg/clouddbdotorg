@@ -1,2 +1,2 @@
-[Cloud Database Comparison](/)
-[Cloud Data Warehouse Comparison](/warehouse)
+> [Cloud Database Comparison](/)
+> [Cloud Data Warehouse Comparison](/warehouse)
