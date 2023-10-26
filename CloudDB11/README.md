@@ -1,1 +1,2 @@
-[Back to Cloud DB Comparison](/)
+[Cloud Database Comparison](/)
+[Cloud Data Warehouse Comparison](/warehouse)
