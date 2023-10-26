@@ -1,4 +1,4 @@
-# Cloud Databases
+# Cloud Databases Comparison
 
 ||Cockroach DB|AWS Aurora|
 |-------|------------|----------|
