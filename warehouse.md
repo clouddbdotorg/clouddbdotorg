@@ -1,6 +1,7 @@
 # Cloud Data Warehouse Comparison
 
-||Snowflake|AWS Redshift|Google Bigquery|Databricks|
-|-------|------------|----------|-------|-------|
-| Free Tier | Yes    |No        ||
-| DB Engine ||          ||
+|SQL Support      |Snowflake|AWS Redshift|Google Bigquery|Databricks|Oracle|
+|-----------------|---------|------------|---------------|----------|------|
+| MATCH_RECOGNIZE | Yes     |No          | No            |No        |Yes   |
+| QUALIFY         |Yes      |Yes         |Yes            |Yes       |Yes   |
+| SKYLINE         |No       | No         |No             |No        |No    |
