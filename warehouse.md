@@ -10,5 +10,4 @@
 |GROUP BY CUBE               |✅          |❌          |✅             |✅        |✅    |✅    |
 |GROUP BY ROLLUP             |✅          |❌          |✅             |✅        |✅    |✅    |
 |GROUP BY GROUPING SETS      |✅          |❌          |✅             |✅        |✅    |✅    |
-|CONDITIONAL_TRUE_EVENT      |✅          |❌          |❌             
-
+|CONDITIONAL_TRUE_EVENT      |✅          |❌          |❌             |❌        |❌    |❌    |
