@@ -12,3 +12,4 @@
 |GROUP BY GROUPING SETS                                                            |✅          |❌          |✅             |✅        |✅    |✅    |
 |[CONDITIONAL_TRUE_EVENT](https://sql.yt/conditional_true_event.html)              |✅          |❌          |❌             |❌        |❌    |❌    |
 |CONDITIONAL_CHANGE_EVENT                                                          |✅          |❌          |❌             |❌        |❌    |❌    |
+|IS DISTINCT FROM / IS NOT DISTINCT FROM                                           |✅          |❌          |✅             |✅        |❌    |❌    |
