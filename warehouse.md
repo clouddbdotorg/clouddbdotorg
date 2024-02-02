@@ -1,8 +1,8 @@
 # Cloud Data Warehouse Comparison
 
 |Advance Analytical Functions                                                      |Snowflake   |AWS Redshift|Google Bigquery|Databricks |Oracle|Exasol|
-|----------------------------------------------------------------------------------|------------|------------|---------------|-----------|------|------|
-|[MATCH_RECOGNIZE](https://queried.org/applied-overview-of-MATCH_RECOGNIZE-clause.html) |✅          |❌          |❌             |❌         |✅    |❌    |
+|---------------------------------------------------------------------------------------|------------|------------|---------------|-----------|------|------|
+|[MATCH_RECOGNIZE](https://queried.org/applied-overview-of-MATCH_RECOGNIZE-clause.html) |✅          |❌          |❌             |❌        |✅    |❌    |
 |QUALIFY                                                                                |✅          |✅          |✅             |✅        |✅    |✅    |
 |SKYLINE                                                                                |❌          |❌          |❌             |❌        |❌    |✅    |
 |GRAPH_TABLE                                                                            |❌          |❌          |❌             |❌        |✅    |❌    |
@@ -14,4 +14,4 @@
 |CONDITIONAL_CHANGE_EVENT                                                               |✅          |❌          |❌             |❌        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
-|ASOF + MATCH_CONDITION join                                                            |✅          |❌          |❌             |❌        |❌    |❌    |
+|[ASOF + MATCH_CONDITION join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)  |✅          |❌          |❌             |❌        |❌    |❌    |
