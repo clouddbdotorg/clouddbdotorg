@@ -2,7 +2,7 @@
 
 |Advance Analytical Functions                                                      |Snowflake   |AWS Redshift|Google Bigquery|Databricks |Oracle|Exasol|
 |----------------------------------------------------------------------------------|------------|------------|---------------|-----------|------|------|
-|[MATCH_RECOGNIZE](https://sql.yt/applied-overview-of-MATCH_RECOGNIZE-clause.html) |✅          |❌          | ❌            |❌        |✅    |❌    |
+|[MATCH_RECOGNIZE](https://sql.yt/applied-overview-of-MATCH_RECOGNIZE-clause.html) |✅          |❌          |❌             |❌         |✅    |❌    |
 |QUALIFY                                                                           |✅          |✅          |✅             |✅        |✅    |✅    |
 |SKYLINE                                                                           |❌          |❌          |❌             |❌        |❌    |✅    |
 |GRAPH_TABLE                                                                       |❌          |❌          |❌             |❌        |✅    |❌    |
@@ -13,3 +13,5 @@
 |[CONDITIONAL_TRUE_EVENT](https://sql.yt/conditional_true_event.html)              |✅          |❌          |❌             |❌        |❌    |❌    |
 |CONDITIONAL_CHANGE_EVENT                                                          |✅          |❌          |❌             |❌        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                           |✅          |❌          |✅             |✅        |❌    |❌    |
+|IS DISTINCT FROM / IS NOT DISTINCT FROM                                           |✅          |❌          |✅             |✅        |❌    |❌    |
+|ASOF + MATCH_CONDITION join                                                       |✅          |❌          |❌             |❌        |❌    |❌    |
