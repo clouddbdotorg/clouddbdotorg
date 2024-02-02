@@ -10,7 +10,7 @@
 |GROUP BY CUBE                                                                          |✅          |❌          |✅             |✅        |✅    |✅    |
 |GROUP BY ROLLUP                                                                        |✅          |❌          |✅             |✅        |✅    |✅    |
 |GROUP BY GROUPING SETS                                                                 |✅          |❌          |✅             |✅        |✅    |✅    |
-|[CONDITIONAL_TRUE_EVENT](https://sql.yt/conditional_true_event.html)                   |✅          |❌          |❌             |❌        |❌    |❌    |
+|[CONDITIONAL_TRUE_EVENT](https://queried.org/conditional_true_event.html)              |✅          |❌          |❌             |❌        |❌    |❌    |
 |CONDITIONAL_CHANGE_EVENT                                                               |✅          |❌          |❌             |❌        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
