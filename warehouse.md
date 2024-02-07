@@ -14,4 +14,4 @@
 |CONDITIONAL_CHANGE_EVENT                                                               |✅          |❌          |❌             |❌        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
-|[ASOF + MATCH_CONDITION join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)  |✅          |❌          |❌             |❌        |❌    |❌    |
+|[ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                    |✅          |❌          |❌             |❌        |❌    |❌    |
