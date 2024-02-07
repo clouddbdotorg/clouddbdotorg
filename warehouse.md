@@ -15,3 +15,4 @@
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
 |IS DISTINCT FROM / IS NOT DISTINCT FROM                                                |✅          |❌          |✅             |✅        |❌    |❌    |
 |[ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                    |✅          |❌          |❌             |❌        |❌    |❌    |
+|[SQL ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                |✅          |❌          |❌             |❌        |❌    |❌    |
