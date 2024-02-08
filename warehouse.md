@@ -12,7 +12,7 @@
 |GROUP BY GROUPING SETS                                                                 |✅          |❌          |✅             |✅        |✅    |✅    |
 |[CONDITIONAL_TRUE_EVENT](https://queried.org/conditional_true_event.html)              |✅          |❌          |❌             |❌        |❌    |❌    |
 |CONDITIONAL_CHANGE_EVENT                                                               |✅          |❌          |❌             |❌        |❌    |❌    |
-|[RATIO_TO_REPORT](https://queried.org/ratio_to_report.html)                            |✅          |❌          |❌             |❌        |❌    |❌    |
+|[RATIO_TO_REPORT](https://queried.org/ratio_to_report.html)                            |✅          |✅          |❌             |❌        |✅    |✅    |
 |[IS DISTINCT FROM](https://queried.org/null-safe-comparison-in-snowflake-sql.html)     |✅          |❌          |✅             |✅        |❌    |❌    |
 |[IS NOT DISTINCT FROM](https://queried.org/null-safe-comparison-in-snowflake-sql.html) |✅          |❌          |✅             |✅        |❌    |❌    |
 |[ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                    |✅          |❌          |❌             |❌        |❌    |❌    |
