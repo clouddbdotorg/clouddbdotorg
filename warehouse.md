@@ -15,5 +15,5 @@
 |[RATIO_TO_REPORT](https://queried.org/ratio_to_report.html)                            |✅          |✅          |❌             |❌        |✅    |✅    |
 |[IS DISTINCT FROM](https://queried.org/null-safe-comparison-in-snowflake-sql.html)     |✅          |❌          |✅             |✅        |❌    |❌    |
 |[IS NOT DISTINCT FROM](https://queried.org/null-safe-comparison-in-snowflake-sql.html) |✅          |❌          |✅             |✅        |❌    |❌    |
-|[ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                    |✅          |❌          |❌             |❌        |❌    |❌    |
+|[ASOF join](https://queried.org/ASOF-join.html)                                        |✅          |❌          |❌             |❌        |❌    |❌    |
 |[SQL ASOF join](https://queried.org/ASOF-and-MATCH_CONDITION-join.html)                |✅          |❌          |❌             |❌        |❌    |❌    |
