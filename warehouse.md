@@ -18,4 +18,4 @@
 |[ASOF join](https://qosf.com/ASOF-join.html)                                                        |✅          |❌          |✅             |❌        |❌    |❌    |❌
 |[SQL ASOF join](https://qosf.com/ASOF-and-MATCH_CONDITION-join.html)                                |✅          |❌          |✅             |❌        |❌    |❌    |❌
 |[RANGE_SESSIONIZE](https://qosf.com/sessionization-using-RANGE_SESSIONIZE-in-google-big-query.html) |❌          |❌          |✅             |❌        |❌    |❌    |❌
-|[User Defined Aggregate Functions (UDAF)](https://qosf.com/UDAF-in-google-bigquery.html)            |❌          |❌          |✅             |❌        |❌    |❌    |❌
+|[User Defined Aggregate Functions (UDAF)](https://qosf.com/UDAF-in-google-bigquery.html)            |✅          |❌          |✅             |❌        |❌    |❌    |❌
