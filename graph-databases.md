@@ -2,8 +2,10 @@
 
 Here are the databases that support ISO/IEC 9075-16:2023 or ISO/IEC 39075:2024
 
-|Oracle 23ai|
-|Google Spanner|
+|Database|Supported standards|
+|--------|-------------------|
+|Oracle 23ai|ISO/IEC 9075-16:2023|
+|Google Spanner|ISO/IEC 39075:2024|
 
 Note(s):
 1. SO/IEC 9075-16:2023 extends the existing SQL standard (ISO/IEC 9075) to include property graph queries, allowing users to query graph data using SQL syntax
