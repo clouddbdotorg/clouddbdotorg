@@ -1,0 +1,10 @@
+# Graph Databases that support SQL/PGQ
+
+Here are the databases that support ISO/IEC 9075-16:2023 or ISO/IEC 39075:2024
+
+|Oracle 23ai|
+|Google Spanner|
+
+Note(s):
+1. SO/IEC 9075-16:2023 extends the existing SQL standard (ISO/IEC 9075) to include property graph queries, allowing users to query graph data using SQL syntax
+2. ISO/IEC 39075:2024 introduces a completely new database language called GQL specifically designed for querying graph databases.
