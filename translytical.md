@@ -1,4 +1,4 @@
-# Translytical Databases
+# Translytical Database
 
 |Translytical Database|Strategy|
 |---------------------|--------|
