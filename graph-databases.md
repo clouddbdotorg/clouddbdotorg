@@ -1,6 +1,6 @@
 # Graph Database that support SQL/PGQ and GQL
 
-Here are the databases that support ISO/IEC 9075-16:2023 or ISO/IEC 39075:2024
+Here are the databases that support ISO/IEC 9075-16:2023 (SQL/PGQ) or ISO/IEC 39075:2024 (GQL)
 
 |Database|Supported standards|
 |--------|-------------------|
