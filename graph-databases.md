@@ -8,6 +8,7 @@ Here are the databases that support ISO/IEC 9075-16:2023 (SQL/PGQ) or ISO/IEC 39
 |Google Spanner|[ISO/IEC 39075:2024](https://cloud.google.com/spanner/docs/graph/iso-standards) (GQL) and [ISO/IEC 9075-16:2023](https://cloud.google.com/spanner/docs/graph/iso-standards) (SQL/PGQ)|
 |DuckPGQ community extension for DuckDB|[ISO/IEC 9075-16:2023](https://duckpgq.org/) (SQL/PGQ)|
 |Ultipa|[ISO/IEC 39075:2024](https://www.ultipa.com/document/gql/gql-conformance/v5.0) (GQL) |
+|CedarDB|Graph Query Language support is on the Roadmap: [https://cedardb.com/docs/roadmap/#data-model--domain-specific-features](https://cedardb.com/docs/roadmap/#data-model--domain-specific-features)|
 
 Note(s):
 
