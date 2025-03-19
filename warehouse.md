@@ -20,4 +20,4 @@
 |[RANGE_SESSIONIZE](https://qosf.com/sessionization-using-RANGE_SESSIONIZE-in-google-big-query.html) |❌          |❌          |✅             |❌        |❌    |❌    |❌
 |[User Defined Aggregate Functions (UDAF)](https://qosf.com/UDAF-in-google-bigquery.html)            |✅          |❌          |✅             |❌        |❌    |❌    |❌
 |[Dynamic PIVOT](https://qosf.com/snowflake-support-for-ANY-keyword-in-the-PIVOT-IN-list.html)       |✅          |❌          |❌             |❌        |✅    |❌    |❌
-|GRAPH_TABLE                                                                                         |❌          |❌          |❌             |❌        |✅    |❌    |❌
+|[GRAPH_TABLE](https://clouddb.org/graph-databases)                                                  |❌          |❌          |❌             |❌        |✅    |❌    |❌
