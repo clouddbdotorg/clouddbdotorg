@@ -6,3 +6,5 @@
 4. [Graph Databases](/graph-databases)
 5. [Translytical Data Platform](/translytical)
 2. [Best Cloud SQL Database](/warehouse)
+3. [Power BI Translytical](/translytical)
+3. [Translytical Power BI](/translytical)
