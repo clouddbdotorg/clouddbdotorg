@@ -10,4 +10,3 @@
 3. [Translytical Power BI](/translytical)
 4. [Data Warehouse Comparison](/warehouse)
 5. [SQL:PGQ](/graph-databases)
-6. 
