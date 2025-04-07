@@ -9,8 +9,6 @@
 3. [Power BI Translytical](/translytical)
 3. [Translytical Power BI](/translytical)
 4. [Data Warehouse Comparison](/warehouse)
-5. [SQL:PGQ](/graph-databases)
-6. [ISO GQL](/graph-databases)
 
 
 
@@ -19,12 +17,12 @@
 The world of database querying is evolving rapidly, bringing forth new paradigms for managing increasingly complex datasets. Two key contenders in the modern querying landscape are [Graph Query Language (GQL)](/graph-databases) and [SQL/PGQ (Property Graph Queries integrated into SQL)](/graph-databases). While both are powerful tools for retrieving and manipulating data, they cater to distinct needs and bring unique strengths to the table.
 
 ### **What Is GQL?**
-[GQL](/graph-databases) is an emerging standard designed specifically for querying graph databases. Graph databases store data as nodes (entities) and edges (relationships), making them particularly suited for applications that require analyzing connections—like social networks, supply chains, or fraud detection.
+[ISO GQL](/graph-databases) is an emerging standard designed specifically for querying graph databases. Graph databases store data as nodes (entities) and edges (relationships), making them particularly suited for applications that require analyzing connections—like social networks, supply chains, or fraud detection.
 
 GQL enables queries in a graph-native format, allowing users to traverse nodes and edges effortlessly. Its syntax is declarative, similar to SQL, but optimized for graphs. Languages like Cypher (used in platforms such as Neo4j) are examples of GQL implementations. 
 
 ### **What Is SQL/PGQ?**
-[SQL/PGQ](/graph-databases) integrates graph querying capabilities directly into traditional relational databases. PGQ expands the SQL standard to accommodate property graphs, blending graph features into the widely-adopted relational model.
+[SQL:PGQ](/graph-databases) integrates graph querying capabilities directly into traditional relational databases. PGQ expands the SQL standard to accommodate property graphs, blending graph features into the widely-adopted relational model.
 
 This hybrid approach allows users to leverage existing SQL knowledge while exploring graph-based data. PostgreSQL, with its PGQ extension, is an example of this integration—enabling relational databases to compete with graph-native solutions.
 
