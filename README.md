@@ -9,6 +9,7 @@
 3. [Power BI Translytical](/translytical)
 3. [Translytical Power BI](/translytical)
 4. [Data Warehouse Comparison](/warehouse)
+5. [Best Cloud DB](/warehouse)
 
 
 
